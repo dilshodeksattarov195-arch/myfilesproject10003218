@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentconnect",
+        "uuid": 21225928,
+        "checksum": "kxs3t8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
